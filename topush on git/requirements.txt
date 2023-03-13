@@ -1,0 +1,7 @@
+absl-py
+scipy 
+torch
+torchvision 
+tqdm 
+
+torchview
